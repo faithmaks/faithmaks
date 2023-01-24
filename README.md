@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @faithmaks
+- 👋 Hi, I’m [Faith Maks](https://github.com/faithmaks)
+- 
 - 👀 I’m interested in:
 - > Data Science
 - > Python
@@ -15,7 +16,7 @@
 - > R 
 - 
 - 📫 How to reach me ...
-
+[Faith Maks](https://github.com/faithmaks)
 <!---
 faithmaks/faithmaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
