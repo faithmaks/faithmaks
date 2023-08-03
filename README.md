@@ -7,9 +7,10 @@
 - > AI
 - > R 
 - ## 🌱 I’m currently learning ...
-- Python 
-- R
--## 💞️ I’m looking to collaborate on ...
+- > Python 
+- > R
+  
+- ## 💞️ I’m looking to collaborate on ...
 - > Python
 - > Machine Learning
 - > AI
