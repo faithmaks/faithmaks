@@ -15,7 +15,8 @@
 - > Machine Learning
 - > AI
 - > R 
-- 
+- > Deep Learning
+  
 - ## 📫 How to reach me ...
 [Faith Maks](https://github.com/faithmaks)
 [LinkedIn](https://www.linkedin.com/in/faith-makokha-9a2b92a3/)
