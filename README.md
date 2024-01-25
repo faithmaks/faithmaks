@@ -1,6 +1,6 @@
 - ## 👋 Hi, I’m [Faith Maks](https://github.com/faithmaks)
 - 
--##  👀 I’m interested in:
+-##  👀 I’m interested in learning and practising Data Science and Engineering:
 - > Data Science
 - > Python
 - > Machine Learning
